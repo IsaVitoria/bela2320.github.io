@@ -54,12 +54,25 @@ header,footer, .redes-socias,.tecnologia{
    text-indent: 7000px;
    display: inline-block;
 }
- .linkedin{background-image: url('linkedin.png);}
- .github{background-image: url('github.png);}
- .facebook{background-image: url('facebook.png);}
- .devcard{background-image: url('devcard.png);}
+ .linkedin{background-image: url('linkedin.png');}
+ .github{background-image: url('github.png');}
+ .facebook{background-image: url('facebook.png');}
+ .devcard{background-image: url('devcard.png');}
  
-     .projetos h3{text-align: center}
-     .projetos ul{width: 700px; margin: 0auto;}
-     .projetos li{margin-bottom: 700px; margin-top: 7px;}
+  .projetos h3{text-align: center}
+  .projetos ul{width: 700px; margin: 0auto;}
+  .projetos li{margin-bottom: 700px; margin-top: 7px; padding-left: 24px; background-image: url('projetos.png'); background-repeat: no-repeat}
+  .projetos li:hover{background-image: url('projetos2.png');color:#e35757}
+     
+   a:houver{color:#e35757}
+     
+   h3{margin-top: 20px; margin-bottom: 5px; border-bottom: 2px solid #ffffff}
+
+  .tecnologias ul{width: 700px; margin: 0 auto}
+  .tecnologias li{display: inline-block; width: 150px; border: 1px; solid #fffffff; padding: 8px; margin: 3px; }
+
+   
+     
+     
+     
      
