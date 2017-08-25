@@ -1,11 +1,13 @@
 body{
   font-family: 'Roboto, sans-serif;
-  background -color:#232B2B;
- color: 
+  background -color:#000000;
+  color: #232B2B;
 }
 
-.corpo {
-margin: 0 auto;
+a {text-decoration: none;
+   color:#ffcc22;} 
+
+.corpo { margin: 1% 1%;
     width: 960px;
 }
 h1,h2,h3 {
@@ -89,7 +91,7 @@ header,footer, .redes-socias,.tecnologia{
   .web{background-color: #e74c3c; border: 2px solid #c0392b}
   .web{background-color: #c0392b }
    
-  footer{margin-top: 50px; padding-top: 20px; padding-bottom: 50px; background-color: #DC3D24; text-shadow: 0.5px #232B2B;}
+  footer{margin-top: 50px; padding-top: 20px; padding-bottom: 50px; background-color: #DC3D24; text-shadow: 0.5px #232B2B}
 
   
 
